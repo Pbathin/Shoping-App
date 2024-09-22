@@ -22,15 +22,9 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.athinpb.QuizApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "40645815-eed4-4600-ac77-6b4812f93d0c"
-      }
-    }
   }
 }
